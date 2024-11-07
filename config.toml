@@ -1,5 +1,5 @@
 # MAIN base
-baseURL = "https://apsho-hugo.netlify.app/"
+baseURL = "/"
 languageCode = "en-us"
 title = "SevaultWallet | Welcome"
 theme = "apsho"
