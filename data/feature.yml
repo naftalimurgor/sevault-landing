@@ -1,0 +1,14 @@
+---
+enable: true
+title: Transact BGL and other assets with ease!
+description: Sevault wallet allows you to seamlessly transact BGL to any other Bitgesell network with ease.
+description2: Sevault also brings Ethereum, BNB together, this enables bringing Bitgesell Swap Bridge in future enabling swapping of BGL for other tokens easy.
+buttonText: Download APK
+Title2nd: Monitor all BGL, BNB, ETH, USDT transacton activity under one roof
+description2nd: Monitor all your crypto activity in one place with Sevault. Track transactions for BGL, BNB, ETH, and USDT in real time on a single dashboard. Get a complete view of your assets instantly, no matter the network.
+image1: images/feature/feature-illustration-one.png
+image2: images/feature/feature-illustration-two.png
+checkItem:
+  - text: Easy to set up.
+  - text: Backup privateKeys, seephrases and passwords.
+  - text: Seemlessly transact BGL(Bitgesell) and other assets.

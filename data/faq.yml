@@ -1,0 +1,24 @@
+---
+enable: true
+title: Frequently asked questions
+description: A few pointers about Sevault and BGL(Bitgesell).
+faqItem:
+  - question: How to Install Sevault?
+    answer: Open Google Playstore, search for SevaultWallet, Install and start manage your assets.
+    dataTarget: One
+    show: show
+  
+  - question: What is BGL(Bitgesesll)?
+    answer: Bitgesell (BGL) is a cryptocurrency designed to be a store of value with a deflationary model. Inspired by Bitcoin, it has a limited supply and regularly burns transaction fees, reducing the total supply over time to increase scarcity. BGL aims to offer users a sustainable and efficient digital asset for long-term holding.
+    dataTarget: Three
+    show: 
+
+  - question: How secure is Sevault Wallet?
+    answer: SevultWallet is completely secure. All privateKeys, passwords and seedphrases are stored on user physical device. Safely backing up passwords, privateKeys and seedphrases further strengthens the security of your digital assets.
+    dataTarget: Two
+    show: 
+    
+  - question: Is there a fee for using Sevault?
+    answer: Besides Transaction fees to incentivize miners to validate transactions, there are no other fees charged.
+    dataTarget: Three
+    show: 

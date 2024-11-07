@@ -1,0 +1,16 @@
+#  icons can be found on https://themify.me/themify-icons
+---
+enable: true
+title: Easy to setup and use
+services:
+  - icon: ti-settings
+    title: Easy setup
+    description: Install app from store, set up a password, back up the Bitgesell seed phrase, and you're good to go. Other keys can be backed up from the settings.
+
+  - icon: ti-check-box
+    title: Manage Assets
+    description: Send, receive and manage - BGL(Bitgesell), Ethereum, BNB and USDT seamlessly.
+
+  - icon: ti-key
+    title: Completely Custodial
+    description: Have custody of all your wallet private keys and be in complete control of your assets

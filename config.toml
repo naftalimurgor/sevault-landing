@@ -1,0 +1,61 @@
+# MAIN base
+baseURL = "https://apsho-hugo.netlify.app/"
+languageCode = "en-us"
+title = "SevaultWallet | Welcome"
+theme = "apsho"
+
+# Navigation Bar
+[[menu.main]]
+    name = "Home"
+    url = "#hero"
+    weight = 1
+[[menu.main]]
+    name = "About"
+    url = "#feature"
+    weight = 2
+[[menu.main]]
+    name = "Services"
+    url = "#faq"
+    weight = 3
+
+# Footer Sitemap
+[[menu.sitemap]]
+    name = "Home"
+    url = "#"
+    weight = 1
+
+# Copy Privacy Policy from Mobile app 
+[[menu.sitemap]]
+    name = "Privacy & Policy"
+    url = "/privacy"
+    weight = 3
+
+[[menu.sitemap]]
+    name = "Contact"
+    url = "/contact"
+    weight = 4
+
+# Footer Address
+[params.address]
+email = "it@bitgesell.dev"
+
+# Footer Social
+[params.social]
+discord = "https://discord.gg/rbUQCFSs"
+twitter = "https://twitter.com/static_mania"
+github = "https://github.com/StaticMania"
+
+[params]
+
+# Header
+logo = "images/logo.png"
+fabFormURL = "https://fabform.io/f/zWMBVeW"
+googleAnalytics = "" # Replace with google analytics key
+
+# Footer
+footerTitle = "Get the latest app updates"
+copyright1 = "All right reserved"
+copyright2 = "Copyright ©  <a href=\"https://sevaulwalletwallet.com/\" target=\"_blank\">Sevault </a> {year}"
+
+#contact
+email = "support@bitgesell.dev"
