@@ -3,6 +3,7 @@ baseURL = "https://apsho-hugo.netlify.app/"
 languageCode = "en-us"
 title = "SevaultWallet | Welcome"
 theme = "apsho"
+disableKinds = ["taxonomy", "taxonomyTerm"]
 
 # Navigation Bar
 [[menu.main]]
