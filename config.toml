@@ -51,7 +51,7 @@ github = "https://github.com/StaticMania"
 # Header
 logo = "images/logo.png"
 fabFormURL = "https://fabform.io/f/zWMBVeW"
-googleAnalytics = "" # Replace with google analytics key
+googleAnalytics = "G-38ETGMEHJ5" # Replace with google analytics key
 
 # Footer
 footerTitle = "Get the latest app updates"
