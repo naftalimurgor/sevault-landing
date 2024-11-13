@@ -1,0 +1,37 @@
+{{ define "main" }}
+{{partial "head" . }}
+{{partial "header" . }}
+<div class="container" style="margin-top: 10vh;">
+  <div class="row">
+    <div class="col-md-6">
+      <h2 style="padding-bottom: 30px">Download Sevault (Android)</h2>
+      <h3>1. Download for newer Android devices <span><a
+            href="https://bitgesell.dev/android/sevaultV1.apk">Download</a></span></h3>
+      <h3>2. Download for Older Android devices <span><a
+            href="https://bitgesell.dev/android/sevault_armeabiv7a.apk">Download</a></span></h3>
+      <div class="hero-content">
+        <p>
+          Sevault wallet currenlty is compatible with most Android devices. However, Sevault wallet hasn't been tested
+          on Tablet Devices.
+        </p>
+        <h4>How to Setup Sevault Wallet</h4>
+        <p>
+          1. To install, download apk from any of the above links. (Google Chrome gives a warning because it's a third
+          party
+          application package, ignore that)
+
+        </p>
+        <p>2. Go to settings on your handset, enable install application from third party sources</p>
+        <p>3. Proceed to install app, follow through the install steps and start managing your assets.</p>
+        <p>Thank you for choosing Sevault!</p>
+      </div>
+    </div>
+  </div>
+  <div class="row" style="margin-top: 80px;">
+    <div class="col-md-6">
+      {{ partial "storeButtons" . }}
+    </div>
+  </div>
+</div>
+{{partial "footer" . }}
+{{end}}
