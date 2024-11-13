@@ -16,7 +16,7 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
     weight = 2
 [[menu.main]]
     name = "Download"
-    url = "/download"
+    url = "download/"
     weight = 2
 [[menu.main]]
     name = "FAQ"
@@ -42,7 +42,7 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
 
 # Footer Address
 [params.address]
-email = "it@bitgesell.dev"
+email = "sevault@bitgesell.dev"
 
 # Footer Social
 [params.social]
