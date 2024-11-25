@@ -6,7 +6,7 @@ description: >
 
 ## Privacy Policy
 
-**Effective Date: 10th November, 2024**
+**Effective Date: 24th November, 2024**
 
 Your privacy is important to us. This policy outlines how we handle your data and ensure your information stays secure.
 
@@ -35,3 +35,7 @@ We prioritize security, but it’s your responsibility to keep your device secur
 We may update this policy periodically. Continued use signifies acceptance of any updates.
 
 **Remember:** Keep your recovery phrase secure and never share it with anyone. You are in full control of your wallet.
+
+# Terms of use
+
+2% commission fees charged on all USDT transfers and 1.8% on BNB & ETH. BGL transfers have no commission fee charged.
