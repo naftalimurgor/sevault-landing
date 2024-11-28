@@ -11,6 +11,10 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
     url = "#hero"
     weight = 1
 [[menu.main]]
+    name = "Blog"
+    url = "blog/"
+    weight = 3
+[[menu.main]]
     name = "About"
     url = "#feature"
     weight = 2

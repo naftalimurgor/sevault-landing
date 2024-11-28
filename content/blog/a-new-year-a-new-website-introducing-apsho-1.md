@@ -3,6 +3,7 @@ title: "A New Year, A New Website. Introducing Apsho 1.2"
 date: 2020-09-01T12:57:56+06:00
 featureImage: images/blog/blog-post-5.jpg
 author: William Rick
+draft: true
 authorThumb: images/client/client-2.png
 ---
 
