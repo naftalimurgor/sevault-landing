@@ -24,7 +24,7 @@ faqItem:
     show:
 
   - question: Does Sevault Wallet support WrappedBGL?
-    answer: Support of WrappedBGL(wBGL) is ongoing and shall be availble in the next release.
+    answer: Support of WrappedBGL(wBGL) is ongoing and shall be available in the next release.
     dataTarget: Five
     show:
 
