@@ -8,7 +8,7 @@ faqItem:
     dataTarget: One
     show: show
   
-  - question: What is BGL(Bitgesesll)?
+  - question: What is BGL(Bitgesell)?
     answer: Bitgesell (BGL) is a cryptocurrency designed to be a store of value with a deflationary model. Inspired by Bitcoin, it has a limited supply and regularly burns transaction fees, reducing the total supply over time to increase scarcity. BGL aims to offer users a sustainable and efficient digital asset for long-term holding.
     dataTarget: Two
     show: 
