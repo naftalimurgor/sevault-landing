@@ -51,7 +51,6 @@ email = "sevault@bitgesell.dev"
 # Footer Social
 [params.social]
 discord = "https://discord.gg/rbUQCFSs"
-twitter = "https://twitter.com/static_mania"
 github = "https://github.com/sevault"
 
 [params]
