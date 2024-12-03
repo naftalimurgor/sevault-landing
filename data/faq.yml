@@ -18,7 +18,7 @@ faqItem:
     show: 
 
   - question: Is there a fee for using Sevault?
-    answer: Besides transaction fees to incentivize miners to validate transactions, there are 2% fees charged on USDT transfers and 1.8% on BNB & ETH. BGL transfers have no commissions charged.
+    answer: Besides transaction fees to incentivize miners to validate transactions, optional 0.8% fees charged on USDT transfers and 0.7% on BNB & ETH. BGL transfers have no commissions charged.
     dataTarget: Four
     show: 
 
