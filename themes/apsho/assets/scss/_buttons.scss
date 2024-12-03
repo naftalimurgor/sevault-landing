@@ -74,11 +74,12 @@
 
 .btn-platform {
   display: flex;
-  padding: 15px 40px;
+  padding: 10px 20px;
   border: 2px solid $text-color-dark;
   align-items: center;
   border-radius: 10px;
   font-weight: 600;
+  margin-bottom: 15px;
   transition: all 0.3s ease-in-out;
 
   @include desktop-lg {

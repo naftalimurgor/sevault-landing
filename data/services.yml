@@ -5,7 +5,7 @@ title: Easy to setup and use
 services:
   - icon: ti-settings
     title: Easy setup
-    description: Install app from store, set up a password, back up the Bitgesell seed phrase, and you're good to go. Other keys can be backed up from the settings.
+    description: Install app from store or , set up a password, back up the wallet seed phrases & keys, and you're good to go. Other wallet keys are backed up during backup wallet step.
 
   - icon: ti-check-box
     title: Manage Assets
