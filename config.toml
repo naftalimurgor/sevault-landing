@@ -1,7 +1,7 @@
 # MAIN base
 baseURL = "/"
 languageCode = "en-us"
-title = "SevaultWallet | Welcome"
+title = "Sevault | Home"
 theme = "apsho"
 disableKinds = ["taxonomy", "taxonomyTerm"]
 
