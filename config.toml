@@ -46,7 +46,8 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
 
 # Footer Address
 [params.address]
-email = "sevault@bitgesell.dev"
+  email = "info@sevaultwallet.com"
+  email2 = "sevault@bitgesell.dev"
 
 # Footer Social
 [params.social]

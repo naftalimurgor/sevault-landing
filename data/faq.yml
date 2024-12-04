@@ -7,27 +7,27 @@ faqItem:
     dataTarget: One
     show:
 
-  - question: How secure is Sevault Wallet?
-    answer: Sevault Wallet is completely secure. All private keys, passwords, and seed phrases are stored on the user's physical device. Safely backing up passwords, private keys, and seed phrases further strengthens the security of your digital assets.
+  - question: How safe is Sevault Wallet?
+    answer: Sevault is designed with security and transparency as top priorities. Being an open-source, non-custodial wallet, you have complete control over your private keys, ensuring no third party, including us, can access your funds. Additionally, we employ industry-standard encryption and best practices for secure transactions. Always remember to back up your recovery phrase and keep it private, as it is the key to your wallet.
     dataTarget: Three
-    show: 
+    show: show 
 
-  - question: Are there a fees for using Sevault?
-    answer: Besides transaction fees to incentivize miners to validate transactions,  1% commission fees are charged on token swaps. BGL transfers have no commissions charged.
+  - question: Are there fees charged for using Sevault?
+    answer: Besides transaction fees to incentivize miners to validate transactions,  0.4% commission fees are charged on token swaps. BGL transfers have no commissions charged.
     dataTarget: Four
-    show: 
+    show: show
 
-  - question: Does Sevault Wallet support WrappedBGL?
-    answer: Support for WrappedBGL (wBGL) is available on Binance Smart Chain & Ethereum Mainnet. The next release shall support wBGL on the Optimism L2 chain.
+  - question: Does Sevault Wallet support WrappedBGL & token swaps?
+    answer: Support for WrappedBGL (wBGL) is available on Binance Smart Chain & Ethereum Mainnet. The next release shall support wBGL on the Optimism L2 chain. Token swaps will be supported as a core feature in subsequent releases.
     dataTarget: Five
     show: 
 
-  - question: What blockchain networks are supported?
+  - question: What blockchain networks are supported on Sevault?
     answer: Bitgesell is the main primary blockchain network. Other EVM networks are BNB Smart Chain (BSC) and Ethereum Mainnet. Other networks that shall be supported in future releases are Optimism and Arbitrum. This ensures you can seamlessly manage wBGL on Sevault.
     dataTarget: Six
     show: show
 
-  - question: Does Sevault support swapping of Tokens?
+  - question: Does Sevault support swapping Tokens?
     answer: Sevault will support a wBGL bridge based on the tBTC decentralized bridge and is being actively worked on at the moment. This would enable swapping between wBGL/Native EVM tokens BGL and vice versa.
     dataTarget: Seven
     show: show
