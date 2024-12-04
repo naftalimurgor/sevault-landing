@@ -2,8 +2,8 @@
 enable: true
 title: Transact BGL and other assets with ease!
 description: Sevault wallet allows you to seamlessly send ETH, BNB, USDT, wBGL & BGL with ease.
-description2: Sevault also brings Ethereum, BNB together, will enable seemless token swaps with ease.
-buttonText: Download APK
+description2: Sevault also brings Ethereum, BNB together, will enable seamless token swaps with ease.
+buttonText: Install From APK
 Title2nd: Monitor all transacton activity under one roof
 description2nd: Monitor all your crypto activity in one place with Sevault. Track transactions for BGL, BNB, ETH, and USDT in real time on a single dashboard. Get a complete view of your assets instantly, no matter the network.
 image1: images/feature/feature-illustration-one.png
@@ -11,5 +11,5 @@ image2: images/feature/feature-illustration-two.png
 checkItem:
   - text: Easy to set up.
   - text: Backup privateKeys, seephrases and passwords.
-  - text: Seemlessly transact & perform token swaps(future release!) from you app.
+  - text: Seamlessly transact & perform token swaps(future release!) from you app.
   - text: Secure, sandbox environment, unlike browser web extension based wallets which are succeptible to loss through malicious dApps.
