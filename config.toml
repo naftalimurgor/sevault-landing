@@ -14,10 +14,11 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
     name = "Blog"
     url = "blog/"
     weight = 3
+
 [[menu.main]]
     name = "About"
     url = "#feature"
-    weight = 2
+    weight = 5
 [[menu.main]]
     name = "Download"
     url = "download/"
@@ -62,7 +63,7 @@ fabFormURL = "https://fabform.io/f/zWMBVeW"
 googleAnalytics = "G-38ETGMEHJ5" # Replace with google analytics key
 
 # Footer
-footerTitle = "Get the latest app updates"
+footerTitle = "Join Weekly Newsletter"
 copyright1 = "All right reserved"
 copyright2 = "Copyright ©  <a href=\"https://sevaulwalletwallet.com/\" target=\"_blank\">Sevault </a> {year}"
 
