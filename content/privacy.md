@@ -38,4 +38,4 @@ We may update this policy periodically. Continued use signifies acceptance of an
 
 # Terms of use
 
-A negligible 0.8% commission fees charged on all USDT transfers and 0.9% on BNB & ETH. BGL transfers have no commission fee charged.
+No commission fees are charged on any transactions only network fees to pay for transaction costs.
