@@ -28,6 +28,11 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
     url = "#faq"
     weight = 3
 
+[[menu.main]]
+    name = "Privacy & Policy"
+    url = "privacy/"
+    weight = 7
+
 # Footer Sitemap
 [[menu.sitemap]]
     name = "Home"
