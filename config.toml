@@ -53,7 +53,6 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
 # Footer Address
 [params.address]
   email = "info@sevaultwallet.com"
-  email2 = "sevault@bitgesell.dev"
 
 # Footer Social
 [params.social]
@@ -71,8 +70,7 @@ googleAnalytics = "G-38ETGMEHJ5" # Replace with google analytics key
 footerTitle = "Join Weekly Newsletter"
 copyright1 = "All right reserved"
 copyright2 = "Copyright ©  <a href=\"https://sevaulwalletwallet.com/\" target=\"_blank\">Sevault </a> {year}"
-copyright3 = "Donate(BGL): bgl1qh3tsz3a7l3m49xaq4xcdx8aefthchuqagmspcn"
 copyright4 = "Donate (USDT Ethereum) 0xe8931e29af87d9c65476aba80cff2e8d074c95ed"
 
 #contact
-email = "support@bitgesell.dev"
+email = "info@sevaultwallet.com"

@@ -23,11 +23,6 @@ faqItem:
     show: 
 
   - question: What blockchain networks are supported on Sevault?
-    answer: Bitgesell is the main primary blockchain network. Other EVM networks are BNB Smart Chain (BSC) and Ethereum Mainnet. Other networks that shall be supported in future releases are Optimism and Arbitrum. This ensures you can seamlessly manage wBGL on Sevault.
+    answer: Kadena is the main primary blockchain network. Other EVM networks are BNB Smart Chain (BSC) and Ethereum Mainnet.
     dataTarget: Six
-    show: show
-
-  - question: Does Sevault support swapping Tokens?
-    answer: Sevault will support a wBGL bridge based on the tBTC decentralized bridge and is being actively worked on at the moment. This would enable swapping between wBGL/Native EVM tokens BGL and vice versa.
-    dataTarget: Seven
     show: show

@@ -9,7 +9,7 @@ services:
 
   - icon: ti-check-box
     title: Manage Assets
-    description: Send, receive and manage - BGL(Bitgesell), Ethereum, BNB and USDT seamlessly.
+    description: Send, receive and manage - KDA Tokens(K), Ethereum, BNB and USDT seamlessly.
 
   - icon: ti-key
     title: Completely Custodial
